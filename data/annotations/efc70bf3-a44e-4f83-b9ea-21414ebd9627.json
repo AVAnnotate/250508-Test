@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "dd89845f-3441-4b39-8fcd-3c750488ddee"
+    },
+    {
+      "start_time": 47,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamie looking startled"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2831bd0-fe5c-42e9-982e-e366499b6162"
     }
   ],
   "set": "Default",
