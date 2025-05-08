@@ -1,0 +1,40 @@
+{
+  "audiovisual_files": {
+    "510e328a-b4d7-4dfd-b935-eaa539978b75": {
+      "label": "",
+      "file_type": "Audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "duration_overridden": false,
+      "caption_set": []
+    },
+    "0e8da8ac-3c65-4dd2-a6b1-10b3296d50e2": {
+      "label": "J. Kenji López-Alt Breaks Down the Science of Stir-Fry | WIRED",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=2KNlXt0u_5o",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nIn a wok, fire, oil and metal combine in an explosive chemical reaction to create stir-fry. J. Kenji López-Alt literally wrote the book on the wok, and he's here to explain the science behind stir-fry"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "J. Kenji López-Alt Breaks Down the Science of Stir-Fry | WIRED",
+  "created_at": "2025-05-08T14:29:49.268Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-08T14:29:49.268Z",
+  "updated_by": "SteveMarvin"
+}
