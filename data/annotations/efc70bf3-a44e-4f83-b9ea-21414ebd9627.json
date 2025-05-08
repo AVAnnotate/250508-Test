@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamie looking like he just rolled out of bed and is waving his arms around trying to get the blood flowing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a5427cbb-50f0-459e-8950-9f0b551b572b"
+    }
+  ],
   "set": "Default",
   "event_id": "14ef89f9-548c-47a4-acbc-7ea47841e5ec",
   "source_id": "3c889ebf-7eba-4269-85e4-15607bcb5d8d"
