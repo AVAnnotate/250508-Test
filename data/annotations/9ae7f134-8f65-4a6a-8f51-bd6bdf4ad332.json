@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stop-motion animation"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b736a10-9f81-42e0-8686-43d0b537f8c6"
+    }
+  ],
   "set": "Default",
   "event_id": "ad76acd2-c621-4f53-a0e9-460127ef318e",
   "source_id": "6613169e-d791-4981-8fd8-c64e4841ce7e"
