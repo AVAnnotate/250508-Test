@@ -51,50 +51,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "event-comparison",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "event1": {
-        "uuid": "ad76acd2-c621-4f53-a0e9-460127ef318e"
-      },
-      "event2": {
-        "uuid": "14ef89f9-548c-47a4-acbc-7ea47841e5ec"
-      },
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "Stir-fry Comparison",
@@ -106,6 +62,6 @@
   "slug": "stir-fry-comparison",
   "created_at": "2025-05-08T14:16:17.874Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2025-05-08T14:51:34.067Z",
+  "updated_at": "2025-05-08T16:20:22.881Z",
   "updated_by": "SteveMarvin"
 }
