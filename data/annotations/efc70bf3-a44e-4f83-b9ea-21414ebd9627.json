@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "a5427cbb-50f0-459e-8950-9f0b551b572b"
+    },
+    {
+      "start_time": 37,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jamie waving his hands around like his chopped vegetables are an orchestra and he is the conductor"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dd89845f-3441-4b39-8fcd-3c750488ddee"
     }
   ],
   "set": "Default",
