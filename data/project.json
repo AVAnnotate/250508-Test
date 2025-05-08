@@ -4,7 +4,23 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    },
+    {
+      "login_name": "SteveMarvin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "AVAnnotate",
     "is_private": false,
@@ -22,6 +38,27 @@
       "tags": []
     },
     "created_at": "2025-05-08T14:08:12.181Z",
-    "updated_at": "2025-05-08T14:08:12.181Z"
-  }
+    "updated_at": "2025-05-08T14:08:12.181Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "58183936-c92e-4538-ad12-e9e79ef4586b": {
+      "content": [],
+      "created_at": "2025-05-08T14:08:12.220Z",
+      "created_by": "SteveMarvin",
+      "title": "250508-Test",
+      "updated_at": "2025-05-08T14:08:12.220Z",
+      "updated_by": "SteveMarvin",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "58183936-c92e-4538-ad12-e9e79ef4586b"
+  ]
 }
