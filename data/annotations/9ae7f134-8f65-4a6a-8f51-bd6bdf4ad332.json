@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "d74be122-e550-46ac-8ff6-0a73362abb6d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gordon looking sheepish and nervous, as he usually does when not angry."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3eef2b4a-2424-451e-a68f-e6b4602546d7"
     }
   ],
   "set": "Default",
