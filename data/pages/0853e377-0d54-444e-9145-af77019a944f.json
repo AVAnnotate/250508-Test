@@ -4,11 +4,12 @@
   "created_by": "SteveMarvin",
   "title": "Jamie Oliver's stir-frying tips",
   "slug": "jamie-olivers-stir-frying-tips",
-  "updated_at": "2025-05-08T14:24:19.242Z",
+  "updated_at": "2025-05-08T14:24:25.056Z",
   "updated_by": "SteveMarvin",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "14ef89f9-548c-47a4-acbc-7ea47841e5ec"
-  }
+  },
+  "parent": "9a718692-4093-4377-8e9d-089cd1c91a29"
 }
