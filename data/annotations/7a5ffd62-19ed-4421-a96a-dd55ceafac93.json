@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whole lotta tossing going on"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6894aecb-1952-440e-9347-b07c04f2c2a7"
+    }
+  ],
   "set": "Default",
   "event_id": "be6766ca-b9fb-43dc-a9f3-835eb0793a7b",
   "source_id": "0e8da8ac-3c65-4dd2-a6b1-10b3296d50e2"
